@@ -11,6 +11,11 @@ When you see multiple options available while online shopping, and you want to n
 ## Algorithm Description
 
 
+### What is the filter method? 
+
+From my understanding the filter method is a function that removes/sorts numbers or object from an array and returns a new one. For an example if I want to show only colors that starts with a G [green, orange, red, grey, gold, yellow] I would use the filter method to only return colors that starts with a G [green, grey, gold].
+
+
 1. Define the array with elements.
 
 ```js

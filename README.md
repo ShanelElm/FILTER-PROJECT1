@@ -40,6 +40,13 @@ console.log(positiveNums);
 
 ### Time and Space Complexity
 
+What is Time and Space Complexity?
+
+Time complexity is a measure of how long an algorithm takes to run as the input size grows. It’s typically measured in Big O notation, which describes the worst-case scenario for how long the algorithm takes to run.
+
+Space complexity is a measure of how much memory an algorithm uses as the input size grows. It’s also typically measured in Big O notation, which describes the worst-case scenario for how much memory the algorithm uses.
+
+
 O: stands for "order of", indicating the upper bound
 
 f(n): represents a function of the input size (n)
@@ -55,6 +62,7 @@ const postitiveNums = numArr.filter(function(number){
 }
 // N calls the function you pass in
 
+```
 
 
 ![Selection Sort Animation]
